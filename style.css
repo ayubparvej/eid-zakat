@@ -1,3 +1,53 @@
 body {
     margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.topsection {
+    background-image: url(images/cover.jpg);
+    background-size: cover;
+    height: 600px;
+    margin-bottom: 150px;
+}
+
+.toptext {
+    color: white;
+    margin-left: 150px;
+    height: 400px;
+    width: 500px;
+    padding-top: 150px;
+}
+
+.topheading {
+    font-size: 50px;
+}
+
+.toppera {
+    width: 80%;
+}
+
+.donatebut {
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #EF233C;
+}
+
+.section2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.sec2 {
+    width: 30%;
+    margin-right: 40px;
+}
+
+.sec2 img {
+    width: 100%;
+    border-radius: 5px;
 }
